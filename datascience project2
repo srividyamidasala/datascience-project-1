@@ -61,11 +61,11 @@
       "execution_count": 10,
       "metadata": {
         "id": "zwFnJsE6vjf8",
-        "outputId": "a2f6a86f-1385-4172-8fd2-b525bdc8bbea",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 1000
-        }
+        },
+        "outputId": "a2f6a86f-1385-4172-8fd2-b525bdc8bbea"
       },
       "outputs": [
         {
@@ -258,12 +258,12 @@
       "cell_type": "code",
       "source": [],
       "metadata": {
-        "id": "REWNawfTgHEi",
-        "outputId": "7bfdb478-b130-4572-e898-43fefa85d00b",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 408
-        }
+        },
+        "id": "REWNawfTgHEi",
+        "outputId": "7bfdb478-b130-4572-e898-43fefa85d00b"
       },
       "execution_count": 1,
       "outputs": [
